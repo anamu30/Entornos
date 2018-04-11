@@ -16,6 +16,12 @@ public class EntGit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        System.out.println("dfkjdkfg");
+        
+        for (int i = 0; i < 10; i++) {
+            System.out.println("ksfjksfjg");
+        }
     }
     
 }
